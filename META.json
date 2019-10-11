@@ -1,0 +1,25 @@
+{
+  "name": "Figure",
+  "version": "0.0.0",
+  "description": "",
+
+  "require": {
+    "package": [
+      "Birch.Cairo"
+    ]
+  },
+
+  "manifest": {
+    "source": [
+      "bi/draw.bi"
+    ],
+    "data": [
+
+    ],
+    "other": [
+      "LICENSE",
+      "META.json",
+      "README.md"
+    ]
+  }
+}
