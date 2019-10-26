@@ -1,4 +1,8 @@
-# Figure package
+# SMC figures package
+
+Creates animation frames to depict how conditional Sequential Monte Carlo
+works.
+
 
 ## Installation
 
@@ -10,6 +14,7 @@ To build and install, use:
 
     birch build
     birch install
+
     
 ## Usage
     
